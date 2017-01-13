@@ -48,18 +48,17 @@ The schedule is described here:
 
 http://blog.dina-web.net/os-2017/course.html#schedule
 
-
 ### Presenters
 
 Presentations are primarily by:
 
 - Scott Chamberlain, ROpenSci
+- Ben Raymond, [ACE CRC](http://acecrc.org.au/)
+- Alejandro Ruete, [Swedish University of Agricultural Sciences] (http://www.slu.se/en/)
 - Markus Skyttner, Swedish Museum of Natural History
 - Alexander Zizka, Gothenburg University
-- Alejandro Ruete, [Swedish University of Agricultural Sciences] (http://www.slu.se/en/)
-- Ben Raymond, [ACE CRC](http://acecrc.org.au/)
 
-### Exercises and course topics
+### Topics to be presented
 
 Topics include:
 
@@ -68,6 +67,16 @@ Topics include:
 - Ignorance scores for primary biodiversity data
 - Mirroreum and EU-BON R packages
 - Atlas of Living Australia and ALA4R
+	- a brief overview of the ALA and the full APIs
+	- the ALA4R package and the API subset that it covers
+	- some use case examples
 - speciesgeocodeR and sampbias R packages
 
-TODO: add more details about topics and suggested detailed exercises and demonstrations here
+### Exercises 
+
+TODO: add more details about exercises and demonstrations here
+
+# Resources
+
+- ROpenSci - "Fostering open science and open data with R" at https://ropensci.github.io/ambassador-packet/slides/#ropensci
+- Nordic Open Science materials from Finland at http://openscience.fi/initiatives
