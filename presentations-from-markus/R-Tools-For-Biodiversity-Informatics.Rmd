@@ -1,0 +1,56 @@
+---
+title: "R Tools For Biodiversity Informatics"
+author: "Presenter: Markus Skyttner"
+date: "January 23, 2017"
+output: 
+  ioslides_presentation:
+    smaller: false
+    transition: slower
+    logo: fig/eubon.png
+---
+
+##    
+
+![](fig/eubon-banner.png)
+
+    R in Biodiversity Analysis: rOpenSci for all
+    Stockholm, Sweden, 24th-25th Jan 2016
+    
+    Jan 23th 13:55 - 14:15 
+    
+ 		"R Tools For Biodiversity Informatics"
+    
+    Keyboard shortcuts for presentation viewing mode:
+
+    'f' enable fullscreen mode 
+    'w' toggle widescreen mode
+    'o' enable overview mode
+    'h' enable code highlight mode
+    'p' show presenter notes
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## The Y in Open Science
+
+Rationale for this paradigm
+Polarizing Technologies on Stack Overflow
+
+Why "... for all"?
+
+- FOSS - no lock-in, no costly licenses, freedom to create
+- Runs on FOSS stacks and platforms 
+- The support and help offered from the R community
+
+## Buzzwords 2017
+
+- Post-Truth, Fake Facts and 2017
+- The case for Reproducible Open Science
+- Data Science using R, Python, Julia, Scala
+- Light-weight containers: Docker
+- "Serverless computing" and web services: OpenCPU
+
+## Open Source trends in Europe
+
+- TODO
