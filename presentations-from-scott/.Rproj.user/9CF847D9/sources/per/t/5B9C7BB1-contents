@@ -1,0 +1,41 @@
+---
+title: "Taxonomy: tips"
+author: Scott Chamberlain
+date: 2017-01-24
+output: md_document
+---
+
+```{r echo=FALSE}
+library(taxize)
+knitr::opts_chunk$set(
+  comment = "#>",
+  message = FALSE,
+  warning = FALSE
+)
+```
+
+# Some tips for doing taxonomy
+
+## cheat sheet!
+
+Check it out at <https://github.com/ropensci/cheatsheets/blob/master/taxize/taxize-cheatsheet.pdf>
+
+## Get ranfom plant names using `names_list`
+
+By default gets generic names, and returns 10 items
+
+```{r}
+names_list()
+```
+
+Get 5 species names
+
+```{r}
+names_list('species', 5)
+```
+
+Get 10 family names
+
+```{r}
+names_list('family', 10)
+```

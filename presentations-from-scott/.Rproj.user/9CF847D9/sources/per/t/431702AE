@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1484609202524.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "846967512",
+    "id" : "431702AE",
+    "lastKnownWriteTime" : 1484612124,
+    "last_content_update" : 1484612124978,
+    "path" : "~/github/sac/public-sector-open-science/presentations-from-scott/00-introduction/intro.Rmd",
+    "project_path" : "00-introduction/intro.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
