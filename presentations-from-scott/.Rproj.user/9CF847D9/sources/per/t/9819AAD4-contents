@@ -1,0 +1,62 @@
+---
+title: "Taxonomy: identifiers"
+author: Scott Chamberlain
+date: 2017-01-24
+output: md_document
+---
+
+```{r echo=FALSE}
+knitr::opts_chunk$set(
+  comment = "#>",
+  message = FALSE,
+  warning = FALSE
+)
+```
+
+# Taxonomic identifiers
+
+## Search by taxonomic name
+
+```{r}
+library('taxize')
+(out <- get_tsn("Poa annua"))
+```
+
+## Get a classification
+
+From ITIS
+
+```{r}
+classification(out)
+```
+
+From COL
+
+```{r eval=FALSE}
+classification("Poa annua")
+```
+
+From NCBI
+
+```{r eval=FALSE}
+classification("Ursus americanus")
+```
+
+## Get synonyms
+
+```{r}
+synonyms(out)
+```
+
+## Many names - the ids class
+
+In this case get many identifiers for many names, then pass in identifiers to get many classifications
+
+```{r}
+mynames <- c("Helianthus annuus","Pinus contorta","Collomia grandiflora")
+out <- get_ids(mynames, db = c('ncbi','itis','col','tropicos'))
+out$tropicos
+class(out)
+class(out$col)
+classification(out$col)
+```

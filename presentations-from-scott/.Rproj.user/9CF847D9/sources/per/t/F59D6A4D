@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1484614615350.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1636345890",
+    "id" : "F59D6A4D",
+    "lastKnownWriteTime" : 1484620850,
+    "last_content_update" : 1484620850388,
+    "path" : "~/github/sac/public-sector-open-science/presentations-from-scott/02-biodiversity/mapping.Rmd",
+    "project_path" : "02-biodiversity/mapping.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

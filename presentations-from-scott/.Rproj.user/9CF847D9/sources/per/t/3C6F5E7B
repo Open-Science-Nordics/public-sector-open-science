@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1484614587171.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3430143329",
+    "id" : "3C6F5E7B",
+    "lastKnownWriteTime" : 1484620881,
+    "last_content_update" : 1484620881096,
+    "path" : "~/github/sac/public-sector-open-science/presentations-from-scott/02-biodiversity/rgbif_cleaning.Rmd",
+    "project_path" : "02-biodiversity/rgbif_cleaning.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
