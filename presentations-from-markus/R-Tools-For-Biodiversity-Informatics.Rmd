@@ -32,25 +32,62 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## The Y in Open Science
+## Open Science and 2017 Buzzwords
 
-Rationale for this paradigm
-Polarizing Technologies on Stack Overflow
+- Trust in authorities is relatively high in Sweden, generally perceived to be an [open society](https://sweden.se/society/openness-shapes-swedish-society/)
+- But what about 2017 - the Era of Post-Truth and Fake Facts?
+- Domestic Example: [Recent Swedish ClimateGate - SMHI / Swedish Meteorological and Hydrological Institute Propaganda Allegations](http://www.svd.se/sd-till-attack-mot-smhi-propaganda)
+- International Example: Is increased economic growth linked to higer emissions levels of carbon dioxide and other greenhouse gases? The [Obama Paper](http://science.sciencemag.org/content/early/2017/01/06/science.aam6284.full) - political propaganda or reproducible scientific facts?
+- Do we as citizens want to live in a society based on blind trust in authorities and closed sources?
 
-Why "... for all"?
+## Reproducible Open Research
 
-- FOSS - no lock-in, no costly licenses, freedom to create
-- Runs on FOSS stacks and platforms 
-- The support and help offered from the R community
+![Open Source and Open Science](https://upload.wikimedia.org/wikipedia/commons/9/9c/Open_Science_-_Prinzipien.png)
+- The case for Reproducible Open Science - to build trust in scientific results through publicly available reproducible peer-reviewed work
 
-## Buzzwords 2017
 
-- Post-Truth, Fake Facts and 2017
-- The case for Reproducible Open Science
-- Data Science using R, Python, Julia, Scala
-- Light-weight containers: Docker
-- "Serverless computing" and web services: OpenCPU
+## Economics of Open Source
+
+- FOSS - Free and Open Source Software - no lock-in, no costly licenses, freedom to create
+- Most software on the Internet runs on FOSS stacks and platforms (servers, not clients)
+- Jean Tirole wins Nobel Prize for explaining the [Economics of Open Source](http://www.people.hbs.edu/jlerner/simple.pdf)
+
+## Providing/Creating Open Source Systems
+
+"Because cats are dog-fooding":
+
+- Huge developer communities increasingly favors open-source and don't want to work with closed source, see [Polarizing Technologies on Stack Overflow](http://varianceexplained.org/r/polarizing-technologies/) 
+- Free support and help offered from the open source communities such as Stack Overflow, GitHub, Docker Hub
+
+## Purchasing/Using Open Source Systems
+
+Purchasing behaviour and Budgets follow their own rules:
+
+- "Perpeutated Budgets" - budgets and cost levels tend to "stay the same" over years - consider the "end of year" purchasing frenzy phenomenon, aimed at keeping the same budget levels for the next year
+- "Siloed Budgets" - if there was one budget instead of several budget silo compartments: then savings on licenses and hardware -> investments in people and processes
+- "Non-Humane Budgets" - If (People > Machines) then don't purchase costly reoccurring closed source software licenses when FOSS alernatives exist - it is a waste of tax payers' money that could've instead been spent on improving services
 
 ## Open Source trends in Europe
 
-- TODO
+- International trends - **DevOps**, Data Science, Big Data, Machine Learning - mostly based on FOSS tools
+- **Data Science** using R, Python, Julia, Scala
+- Even Micosoft goes from closed source to recently supporting **Linux Foundation**... also recently buying Revolution Analytics now "Microsoft R server", for providing a fast R runtime commercially
+- Systems Integration of best-of-breed FOSS open source software components using **Docker** - a FOSS tool that makes it possible to build, run and ship (almost) any software (almost) anywhere through "light-weight containers"
+
+## Open Source System in the Public Sector - the model
+
+- Not one single centralized local system developed in splendid isolation and expected to spread across the world, instead a **decentralized web of latest web-based open source system components** - developed openly in international collaboration, up-to-date and mirroring the latest advances within Free and Open Source software for Data Science
+- Enabling cost-effective reproducible research work, removes any unnecessary non-free software licenses - respecting the tax payer financed funding model - avoids "double taxation" through costly commercial business models, instead providing public services, publishing results openly, providing transparency for both sources and results
+
+## Open Science for Biodiversity Analysis 
+
+- R for Reproducible Open Research using ROpenSci - lots of packages available immediately for use in biodiversity analysis and other areas - providing a web-based frontend for experts authoring reproducible research - based on web-variant of RStudio R IDE, customized - and also simple-to-use web UIs for non-experts
+- Data services from open source software based data aggregators such as GBIF and Atlas of Living Australia and any other Web APIs or open data sources
+
+## Web UIs Web Data using R
+
+Web-based User Interfaces and Web-services for Data with R:
+
+- Do you want to provide web user interfaces usable by non-experts on any platform? Create a [Shiny web app](https://www.rstudio.com/products/shiny/shiny-user-showcase/) and bundle it into your R package.
+- Do you want to turn your R functions into a web service? Regarding the "serverless computing" buzzword: see this impressive R package [OpenCPU - Producing and reproducing results](https://www.opencpu.org/) allowing you to turn any R function into a web service and bundle it into your R package.
+

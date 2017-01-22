@@ -33,8 +33,8 @@ Audience
 
 Around 50-60 people are registered to attend the symposium. This includes people from the Government Offices of Sweden - Digitization, Swedish Department of Culture, Swedish Environmental Protection Agency, The Government's Purchasing Services at the Chamber of Commerce, Swedish University of Agricultural Science, Swedish Meteorological and Hydrological Institute, Swedish Sea and Water Authorities, Swedish National Archive, The Royal Swedish Library etc. Also non-Swedish representatives from C.S.I.R.O., Australia and from National Biodiversity Network, UK and from Agriculture and Agri-Food Canada, Royal Botanic Gardens Kew etc. Various educational sector representatives will attend from Stockholm University, Swedish Museum of Natural History, Södertörns Högskola, Swedish Royal Institute of Technology, Swedish University Library, Karolinska Institute etc. Also companies will be represented, such as Wikimedia Sweden, ImCode Partner AB, ArkivIT, Vascaia AB, Swedish Koha user group, Kami Development AB, Sälgö Consulting AB, Altrusoft etc
 
-The course on the 24th and 25th
-===============================
+The course/workshop on the 24th and 25th
+========================================
 
 This two day course is announced here:
 
@@ -47,35 +47,3 @@ The schedule is described here:
 The materials for this two day workshop / course can be found here:
 
 <https://github.com/Open-Science-Nordics/workshop-materials>
-
-### Presenters
-
-Presentations are primarily by:
-
--   Scott Chamberlain, ROpenSci
--   Ben Raymond, [ACE CRC](http://acecrc.org.au/)
--   Alejandro Ruete, \[Swedish University of Agricultural Sciences\] (<http://www.slu.se/en/>)
--   Markus Skyttner, Swedish Museum of Natural History
--   Alexander Zizka, Gothenburg University
-
-### Topics to be presented
-
--   R for scientific computation and biodiversity analysis
--   rOpenSci and R packages for biodiversity analysis
--   Ignorance scores for primary biodiversity data
--   Mirroreum and EU-BON R packages
--   Atlas of Living Australia and ALA4R
-    -   a brief overview of the ALA and the full APIs
-    -   the ALA4R package and the API subset that it covers
-    -   some use case examples
--   speciesgeocodeR and sampbias R packages
-
-Please put any materials relating to demonstrations and exercises here:
-
-<https://github.com/Open-Science-Nordics/workshop-materials>
-
-Resources / Links
-=================
-
--   ROpenSci - "Fostering open science and open data with R" at <https://ropensci.github.io/ambassador-packet/slides/#ropensci>
--   Nordic Open Science materials from Finland at <http://openscience.fi/initiatives>
