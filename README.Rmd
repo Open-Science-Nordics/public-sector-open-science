@@ -34,9 +34,9 @@ After lunch there is one hour planned with some specific presentations (13:15 - 
 
 - 13:15 Open Source techniques in support of Biodiversity data; examples from Atlas of Living Australia (ALA)
 
-- 13:35 R and Open Science, Scott Chamberlain, rOpenSci
+- 13:35 [R and Open Science](https://open-science-nordics.github.io/public-sector-open-science/presentations-from-scott/Chamberlain.pdf), Scott Chamberlain, rOpenSci
 
-- 13:55 R tools for Biodiversity Informatics, Markus Skyttner, Swedish Museum of Natural History
+- 13:55 [R tools for Biodiversity Informatics](https://open-science-nordics.github.io/public-sector-open-science/presentations-from-markus/R-Tools-For-Biodiversity-Informatics.html), Markus Skyttner, Swedish Museum of Natural History
 
 ## Audience
 
