@@ -36,9 +36,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Trust in authorities is relatively high in Sweden, generally perceived to be an [open society](https://sweden.se/society/openness-shapes-swedish-society/)
 - But what about 2017 - the Era of Post-Truth and Fake Facts?
-- Domestic Example: [Recent Swedish ClimateGate - SMHI / Swedish Meteorological and Hydrological Institute Propaganda Allegations](http://www.svd.se/sd-till-attack-mot-smhi-propaganda)
-- International Example: Is increased economic growth linked to higer emissions levels of carbon dioxide and other greenhouse gases? The [Obama Paper](http://science.sciencemag.org/content/early/2017/01/06/science.aam6284.full) - political propaganda or reproducible scientific facts?
-- Do we as citizens want to live in a society based on blind trust in authorities and closed sources?
+- Domestic Example: [Recent Swedish ClimateGate - SMHI / Swedish Meteorological and Hydrological Institute Propaganda Allegations](http://www.svd.se/sd-till-attack-mot-smhi-propaganda)... Is the Sweden where your children grow up getting flooded?
+- International Example: The [Obama Paper](http://science.sciencemag.org/content/early/2017/01/06/science.aam6284.full) - political propaganda or reproducible scientific facts? Is increased economic growth strongly linked to higer emissions levels of carbon dioxide and other greenhouse gases? 
+
+> Do we as citizens want to live in a society based on blind trust in authorities and closed sources?
 
 ## Reproducible Open Research
 
@@ -84,10 +85,13 @@ Purchasing behaviour and Budgets follow their own rules:
 - R for Reproducible Open Research using ROpenSci - lots of packages available immediately for use in biodiversity analysis and other areas - providing a web-based frontend for experts authoring reproducible research - based on web-variant of RStudio R IDE, customized - and also simple-to-use web UIs for non-experts
 - Data services from open source software based data aggregators such as GBIF and Atlas of Living Australia and any other Web APIs or open data sources
 
-## Web UIs Web Data using R
+## Web UIs and Web Data in R packages
 
-Web-based User Interfaces and Web-services for Data with R:
+User interfaces for the Web
 
 - Do you want to provide web user interfaces usable by non-experts on any platform? Create a [Shiny web app](https://www.rstudio.com/products/shiny/shiny-user-showcase/) and bundle it into your R package.
+
+Data for the Web
+
 - Do you want to turn your R functions into a web service? Regarding the "serverless computing" buzzword: see this impressive R package [OpenCPU - Producing and reproducing results](https://www.opencpu.org/) allowing you to turn any R function into a web service and bundle it into your R package.
 
