@@ -37,7 +37,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Trust in authorities is relatively high in Sweden, generally perceived to be an [open society](https://sweden.se/society/openness-shapes-swedish-society/)
 - But what about 2017 - the Era of Post-Truth and Fake Facts?
 - Domestic Example: [Recent Swedish ClimateGate - SMHI / Swedish Meteorological and Hydrological Institute Propaganda Allegations](http://www.svd.se/sd-till-attack-mot-smhi-propaganda)... Is the Sweden where your children grow up getting flooded?
-- International Example: The [Obama Paper](http://science.sciencemag.org/content/early/2017/01/06/science.aam6284.full) - political propaganda or reproducible scientific facts? Is increased economic growth strongly linked to higer emissions levels of carbon dioxide and other greenhouse gases? 
+- International Example: The [Obama Paper](http://science.sciencemag.org/content/early/2017/01/06/science.aam6284.full) - political propaganda or reproducible scientific facts? Is increased economic growth strongly linked to higher emissions levels of carbon dioxide and other greenhouse gases? 
 
 > Do we as citizens want to live in a society based on blind trust in authorities and closed sources?
 
@@ -66,7 +66,7 @@ Purchasing behaviour and Budgets follow their own rules:
 
 - "Perpeutated Budgets" - budgets and cost levels tend to "stay the same" over years - consider the "end of year" purchasing frenzy phenomenon, aimed at keeping the same budget levels for the next year
 - "Siloed Budgets" - if there was one budget instead of several budget silo compartments: then savings on licenses and hardware -> investments in people and processes
-- "Non-Humane Budgets" - If (People > Machines) then don't purchase costly reoccurring closed source software licenses when FOSS alernatives exist - it is a waste of tax payers' money that could've instead been spent on improving services
+- "Non-Human Budgets" - If (People > Machines) then don't purchase costly reoccurring closed source software licenses when FOSS alernatives exist - it is a waste of tax payers' money that could've instead been spent on improving services
 
 ## Open Source trends in Europe
 
